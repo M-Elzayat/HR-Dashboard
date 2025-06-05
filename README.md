@@ -140,15 +140,3 @@ For questions, collaborations, or feedback:
 **Mahmoud Mohamed Fawzy Zaki Elzayat**  
 📧 Connect via [LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)  
 🔗 GitHub: [M-Elzayat](https://github.com/M-Elzayat)
-
----
-
-*This dashboard is for demonstration purposes only and is not based on real employee data.*
-
----
-
-## 🙋‍♂️ About the Author
-
-**Mahmoud Mohamed Fawzy Zaki Elzayat**  
-📧 Connect via [LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)  
-🔗 GitHub: [M-Elzayat](https://github.com/M-Elzayat)
